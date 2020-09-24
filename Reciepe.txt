@@ -1,8 +1,14 @@
 Welcome to Kitchen
 Menu-
+
 Pasta
 pizza
 Burger
+
+1.Pasta
+2.pizza
+3.Burger
+
 
 Chicken Menu-
 1.Chicken fry
@@ -10,4 +16,8 @@ Chicken Menu-
 
 
 Thank you!!
+
 Done with changes
+
+Final copy 
+
