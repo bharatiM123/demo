@@ -1,8 +1,11 @@
 Welcome to Kitchen
-
+Menu-
 Pasta
 pizza
 Burger
+
+Chicken fry
+Butter chicken
 
 
 Thank you!!
